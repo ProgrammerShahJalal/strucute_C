@@ -18,4 +18,4 @@ int main()
         printf("roll: %d and weight: %.2lf\n", s[i].roll, s[i].weight);
     }
     return 0;
-}
+} 
